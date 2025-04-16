@@ -46,4 +46,7 @@ GPT-Workdesk LITE is an integrated productivity environment designed to streamli
 
 GPT-Workdesk LITE is suited for users who need a centralized environment for AI-powered research, writing, and productivity tasks.
 
-![image](https://github.com/user-attachments/assets/029c5013-9c35-48af-9789-94216ea4cb9d)
+![image](https://github.com/user-attachments/assets/96b26681-dbd8-4867-b6d3-3ac44c0ca75b)
+
+
+
