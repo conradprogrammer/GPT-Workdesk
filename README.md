@@ -87,4 +87,47 @@ GPT-Workdesk LITE allows users to harness the power of multiple AI models in one
 
 ![image](https://github.com/user-attachments/assets/c03fb9b1-f573-4fca-bd80-6b38d71b51d6)
 
+## GPT-Workdesk LITE: Word and Spreadsheet Functionalities
+
+Based on the screenshot, GPT-Workdesk LITE integrates word processing and spreadsheet functionalities, with a particular emphasis on AI-assisted image generation within documents.
+
+**Zillion Word (Word Processing)**
+- Standard word processing features:
+  - Text formatting (font, size, styles).
+  - Document layout options.
+  - Insert headers/footers.
+- Built-in AI Image Generator:
+  - Integration with an image API for AI image generation.
+  - Allows users to create images directly within the document.
+  - Enhances documents with custom, AI-generated visuals.
+
+**Zillion Sheets (Spreadsheet)**
+- Typical spreadsheet functionalities.
+- Supports data organization, calculations, and charts.
+- Compatible with other Workdesk features like Clipboard.
+
+**AI-Enhanced Document Creation**
+- Image generation tools within word processor and other AI tools.
+- AI-generated content to streamline workflow.
+
+**Summary Table**
+
+| Feature                     | Description                                                                                                |
+|-----------------------------|------------------------------------------------------------------------------------------------------------|
+| Zillion Word                | Integrated word processor with standard formatting and layout options                                      |
+| AI Image Generation         | Built-in AI image generator using an image API                                                            |
+| Zillion Sheets              | Spreadsheet tool for data organization and calculations                                                    |
+| Workflow Integration        | Word and Spreadsheet features complement other Workdesk functionalities                                    |
+
+GPT-Workdesk LITE streamlines document creation by integrating AI-driven image generation directly into its word processor. In addition to standard word processing and spreadsheet functionalities, this helps users create visually enhanced and data-rich documents within a unified workspace.
+
+![image](https://github.com/user-attachments/assets/23db0287-a479-4fb4-af2f-8f047acb5a33)
+
+** and the integrated AI Writer:**
+- Hilite text, right click and a context sensitive AI Writer is available
+- Select your desired prompt style
+- Replace the hilited text with AI generated text
+
+![image](https://github.com/user-attachments/assets/36e4d907-4501-481b-a0fa-aa4604bc703d)
+
 
