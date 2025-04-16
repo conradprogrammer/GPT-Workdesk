@@ -48,48 +48,41 @@ GPT-Workdesk LITE is suited for users who need a centralized environment for AI-
 
 ![image](https://github.com/user-attachments/assets/96b26681-dbd8-4867-b6d3-3ac44c0ca75b)
 
-PT-Workdesk LITE - Multi-AI Editor and Workspace Functionality
+## GPT-Workdesk LITE - Multi-AI Editor and Workspace Functionality
+
 Based on the screenshots provided, GPT-Workdesk LITE facilitates a multi-AI environment with integrated prompt and workspace management. The following summarizes key features:
 
-Multi-AI Editor View
+**Multi-AI Editor View**
+- Displays four AI editors simultaneously: ChatGPT, Bing Chat, Google Bard (Gemini), and Claude AI.
+- Allows direct interaction with each AI assistant within a single interface.
 
-Displays four AI editors simultaneously: ChatGPT, Bing Chat, Google Bard (Gemini), and Claude AI.
+**Workspace-Specific Configuration**
+- Workdesks (e.g., Workdesk-Main) allow users to save specific configurations.
+- Custom configurations persist, including opened tabs, AI tool states, and clipboard contents.
 
-Allows direct interaction with each AI assistant within a single interface.
+**Prompt Creation and Management**
+- Prompt Manager panel for creating, saving, and organizing prompts.
+- Prompts can be tailored for specific AI models or general tasks.
 
-Workspace-Specific Configuration
+**Workspace Integration**
+- Prompts, clipboard items, and configurations are linked to specific Workdesks.
+- Facilitates research and task management by keeping relevant resources together.
 
-Workdesks (e.g., Workdesk-Main) allow users to save specific configurations.
+**Research Capabilities**
+- Integrated YouTube browser in a side panel.
+- Promotes contextual research alongside AI-driven content creation.
 
-Custom configurations persist, including opened tabs, AI tool states, and clipboard contents.
+**Summary Table**
 
-Prompt Creation and Management
+| Feature                    | Description                                                                                          |
+|----------------------------|------------------------------------------------------------------------------------------------------|
+| Multi-AI Editor            | Simultaneous access to ChatGPT, Bing Chat, Google Bard, and Claude AI                               |
+| Workspace Configurations   | Saves configurations for AI tools, prompts, and clipboard items                                       |
+| Prompt Manager             | Creation and storage of reusable prompts                                                             |
+| Workspace Linking          | Linking prompts and resources to specific Workdesks                                                  |
+| Integrated Research        | Side panel for browsing YouTube                                                                      |
+| Multiple Workdesk Support  | Easy project-specific environment setup                                                              |
 
-Prompt Manager panel for creating, saving, and organizing prompts.
-
-Prompts can be tailored for specific AI models or general tasks.
-
-Workspace Integration
-
-Prompts, clipboard items, and configurations are linked to specific Workdesks.
-
-Facilitates research and task management by keeping relevant resources together.
-
-Research Capabilities
-
-Integrated YouTube browser in a side panel.
-
-Promotes contextual research alongside AI-driven content creation.
-
-Summary Table
-
-Feature	Description
-Multi-AI Editor	Simultaneous access to ChatGPT, Bing Chat, Google Bard, and Claude AI
-Workspace Configurations	Saves configurations for AI tools, prompts, and clipboard items
-Prompt Manager	Creation and storage of reusable prompts
-Workspace Linking	Linking prompts and resources to specific Workdesks
-Integrated Research	Side panel for browsing YouTube
-Multiple Workdesk Support	Easy project-specific environment setup
 GPT-Workdesk LITE allows users to harness the power of multiple AI models in one workspace, facilitating efficient research and content creation. Each workdesk setup keeps prompts and AI configurations distinct for different tasks and contexts.
 
 ![image](https://github.com/user-attachments/assets/c03fb9b1-f573-4fca-bd80-6b38d71b51d6)
