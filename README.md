@@ -49,9 +49,11 @@ GPT-Workdesk LITE is suited for users who need a centralized environment for AI-
 ![image](https://github.com/user-attachments/assets/e2d9b88c-e33f-48a9-b34f-8eeb5109757f)
 
 **here with a browser window open at one of my YouTube demo channels:**
-- with Rich Clipboard side panel
-- Prompt Manager side Panel
-- Video Manager side panel
+- Rich Clipboard side panel (drag and drop images, formatted text, etc. saves on exit)
+- Prompt Manager side Panel (keep your prompts organized by topic and workdesk)
+- Video Manager side panel (manage your YT video library with drag-drop functions)
+- many other side panels can be created as desired (spec)
+
 ![image](https://github.com/user-attachments/assets/96b26681-dbd8-4867-b6d3-3ac44c0ca75b)
 
 ## GPT-Workdesk LITE - Multi-AI Editor and Workspace Functionality
