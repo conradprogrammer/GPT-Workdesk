@@ -49,6 +49,7 @@ GPT-Workdesk LITE is suited for users who need a centralized environment for AI-
 ![image](https://github.com/user-attachments/assets/e2d9b88c-e33f-48a9-b34f-8eeb5109757f)
 
 **here with a browser window open at one of my YouTube demo channels:**
+- "Explain Today" is one of my concepts to showcase teaching and training tools including AI 
 - Rich Clipboard side panel (drag and drop images, formatted text, etc. saves on exit)
 - Prompt Manager side Panel (keep your prompts organized by topic and workdesk)
 - Video Manager side panel (manage your YT video library with drag-drop functions)
@@ -177,6 +178,7 @@ GPT-Workdesk LITE features SpeedPack video training to enhance user proficiency.
 **SpeedPack Video Training**
 - Video tutorials with real-time sample prompts.
 - Displayed prompts relate to video content.
+- Online store with multiple Speedpacks for sale (certified trainers can addtheir own)
 
 **Interactive Learning**
 - Users can copy/paste sample prompts into AI editors.
