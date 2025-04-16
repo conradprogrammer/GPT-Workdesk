@@ -236,6 +236,11 @@ GPT-Workdesk LITE streamlines the job search process. Users upload their resume,
 
 ![image](https://github.com/user-attachments/assets/803483ac-cf7b-4859-b2ed-a6e04a17cde8)
 
+** and another Match Core AI screen**
+
+![image](https://github.com/user-attachments/assets/9c172b2d-7aeb-42af-9d38-a04a661c8b05)
+
+
 **and a complete pipeline to process and follow up in multiple steps**
 
 ![image](https://github.com/user-attachments/assets/2f0f8a46-aaae-49ee-bb7a-9c8f03aa871e)
