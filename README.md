@@ -58,7 +58,7 @@ GPT-Workdesk LITE is suited for users who need a centralized environment for AI-
 
 ## GPT-Workdesk LITE - Multi-AI Editor and Workspace Functionality
 
-Based on the screenshots provided, GPT-Workdesk LITE facilitates a multi-AI environment with integrated prompt and workspace management. The following summarizes key features:
+GPT-Workdesk LITE facilitates a multi-AI environment with integrated prompt and workspace management. The following summarizes key features:
 
 **Multi-AI Editor View**
 - Displays four AI editors simultaneously: ChatGPT, Bing Chat, Google Bard (Gemini), and Claude AI.
@@ -97,7 +97,7 @@ GPT-Workdesk LITE allows users to harness the power of multiple AI models in one
 
 ## GPT-Workdesk LITE: Word and Spreadsheet Functionalities
 
-Based on the screenshot, GPT-Workdesk LITE integrates word processing and spreadsheet functionalities, with a particular emphasis on AI-assisted image generation within documents.
+GPT-Workdesk LITE integrates word processing and spreadsheet functionalities, with a particular emphasis on AI-assisted image generation within documents.
 
 **Zillion Word (Word Processing)**
 - Standard word processing features:
@@ -140,7 +140,7 @@ GPT-Workdesk LITE streamlines document creation by integrating AI-driven image g
 
 ## GPT-Workdesk LITE: Enhanced Spreadsheet Functionalities
 
-Based on the provided screenshots, GPT-Workdesk LITE includes spreadsheet capabilities with pre-built templates. The following summarizes the spreadsheet functionality:
+GPT-Workdesk LITE includes spreadsheet capabilities with pre-built templates. The following summarizes the spreadsheet functionality:
 
 **Zillion Sheets (Spreadsheet Application)**
 - Standard spreadsheet functions:
@@ -172,7 +172,7 @@ this is a simplified example, of course more complex spreadsheets and AI models 
 
 ## GPT-Workdesk LITE: SpeedPack Video Training
 
-Based on the screenshot, GPT-Workdesk LITE features SpeedPack video training to enhance user proficiency. Here’s a summary:
+GPT-Workdesk LITE features SpeedPack video training to enhance user proficiency. Here’s a summary:
 
 **SpeedPack Video Training**
 - Video tutorials with real-time sample prompts.
@@ -206,7 +206,7 @@ GPT-Workdesk LITE enhances user learning through SpeedPack video training. The a
 ## GPT-Workdesk LITE: AI Resume/Job Match Module
 ## SPECIALTY MODULE
 
-Based on the screenshot, GPT-Workdesk LITE incorporates an AI-driven module for resume/job matching. Here’s a summary:
+GPT-Workdesk LITE incorporates an AI-driven module for resume/job matching. Here’s a summary:
 
 **JobHub and Match Core AI**
 - Uses Match Core AI to analyze resumes.
