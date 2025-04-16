@@ -123,11 +123,42 @@ GPT-Workdesk LITE streamlines document creation by integrating AI-driven image g
 
 ![image](https://github.com/user-attachments/assets/23db0287-a479-4fb4-af2f-8f047acb5a33)
 
-** and the integrated AI Writer:**
+**and the integrated AI Writer:**
 - Hilite text, right click and a context sensitive AI Writer is available
 - Select your desired prompt style
 - Replace the hilited text with AI generated text
 
 ![image](https://github.com/user-attachments/assets/36e4d907-4501-481b-a0fa-aa4604bc703d)
 
+## GPT-Workdesk LITE: Enhanced Spreadsheet Functionalities
+
+Based on the provided screenshots, GPT-Workdesk LITE includes spreadsheet capabilities with pre-built templates. The following summarizes the spreadsheet functionality:
+
+**Zillion Sheets (Spreadsheet Application)**
+- Standard spreadsheet functions:
+  - Cell-based data entry
+  - Formula support
+  - Data formatting
+- Built-in Templates:
+  - Budget template.
+  - Predefined columns for common budget items (Rent, Utilities, Groceries, etc.).
+  - Streamlines budget creation.
+
+**Integration with Workdesk Features**
+- Data from spreadsheets can be copied to the clipboard.
+- Data interoperability within the Workdesk environment.
+
+**Summary Table**
+
+| Feature                   | Description                                                                                                                                      |
+|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| Zillion Sheets            | A spreadsheet application with standard features for data entry, formulas, and calculations.                                                   |
+| Built-in Budget Template  | A pre-designed budget template to simplify financial planning and tracking.                                                                   |
+| Data Interoperability     | Data from spreadsheets can be easily copied and pasted to other applications or Workdesk tools.                                                   |
+
+GPT-Workdesk LITE's spreadsheet functionality offers an efficient solution for data management and financial planning through the provision of built-in templates, specifically for budgeting, and seamless integration with other Workdesk features.
+
+this is a simplified example, of course more complex spreadsheets and AI models are available:
+
+![image](https://github.com/user-attachments/assets/f606cf48-18a8-4181-b950-0be2f465d5d4)
 
