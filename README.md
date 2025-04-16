@@ -203,3 +203,40 @@ GPT-Workdesk LITE enhances user learning through SpeedPack video training. The a
 
 ![image](https://github.com/user-attachments/assets/13f0d4c8-bd90-4352-a5f0-3b63316d8c6c)
 
+## GPT-Workdesk LITE: AI Resume/Job Match Module
+
+Based on the screenshot, GPT-Workdesk LITE incorporates an AI-driven module for resume/job matching. Here’s a summary:
+
+**JobHub and Match Core AI**
+- Uses Match Core AI to analyze resumes.
+- Matches resumes with available job listings.
+
+**Skill-Based Ranking**
+- Ranks jobs by skill matching.
+- Displays matching keywords and a count.
+
+**Resume Upload and Submission**
+- Supports both PDF and Word resume formats.
+- Allows users to upload resumes.
+
+**Interface**
+- Displays skill keyword matches.
+- Sorts potential job opportunities by matching skills.
+
+**Summary Table**
+
+| Feature                 | Description                                                                                                    |
+|-------------------------|----------------------------------------------------------------------------------------------------------------|
+| Match Core AI           | Uses AI to match resumes with jobs.                                                                           |
+| Skill-Based Matching    | Jobs are ranked by how well the skills match those listed on the resume.                                      |
+| Resume Support          | Accepts PDF and Word resume formats.                                                                             |
+| Job Ranking             | Prioritizes job listings based on the number of matching skills.                                                             |
+
+GPT-Workdesk LITE streamlines the job search process. Users upload their resume, and the module analyzes and ranks jobs by skill relevance.
+
+![image](https://github.com/user-attachments/assets/803483ac-cf7b-4859-b2ed-a6e04a17cde8)
+
+**and a complete pipeline to process and follow up in multiple steps**
+
+![image](https://github.com/user-attachments/assets/2f0f8a46-aaae-49ee-bb7a-9c8f03aa871e)
+
