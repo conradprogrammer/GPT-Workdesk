@@ -162,3 +162,36 @@ this is a simplified example, of course more complex spreadsheets and AI models 
 
 ![image](https://github.com/user-attachments/assets/f606cf48-18a8-4181-b950-0be2f465d5d4)
 
+## GPT-Workdesk LITE: SpeedPack Video Training
+
+Based on the screenshot, GPT-Workdesk LITE features SpeedPack video training to enhance user proficiency. Here’s a summary:
+
+**SpeedPack Video Training**
+- Video tutorials with real-time sample prompts.
+- Displayed prompts relate to video content.
+
+**Interactive Learning**
+- Users can copy/paste sample prompts into AI editors.
+- Facilitates experimentation and understanding of prompt effectiveness.
+
+**Integrated Training**
+- Accessible within the GPT Workdesk environment.
+- Part of AI SpeedPack Workshops.
+
+**Example Prompts**
+- Training Manuals: Create a training manual for new employees at a small graphic design agency, covering company policies, design software tutorials, and client communication protocols.
+
+**Summary Table**
+
+| Feature                     | Description                                                                                                                                       |
+|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| SpeedPack Video Training    | Training with active sample prompts displayed during the video.                                                                                  |
+| Interactive Prompting       | Ability to copy/paste sample prompts directly into the AI editor.                                                                               |
+| Real-time Learning          | See prompt results immediately.                                                                                                     |
+
+GPT-Workdesk LITE enhances user learning through SpeedPack video training. The ability to copy and paste sample prompts promotes hands-on learning.
+
+**Speedpacks are super engaging and fun to learn about everything and anything**
+
+![image](https://github.com/user-attachments/assets/13f0d4c8-bd90-4352-a5f0-3b63316d8c6c)
+
