@@ -204,6 +204,7 @@ GPT-Workdesk LITE enhances user learning through SpeedPack video training. The a
 ![image](https://github.com/user-attachments/assets/13f0d4c8-bd90-4352-a5f0-3b63316d8c6c)
 
 ## GPT-Workdesk LITE: AI Resume/Job Match Module
+## SPECIALTY MODULE
 
 Based on the screenshot, GPT-Workdesk LITE incorporates an AI-driven module for resume/job matching. Here’s a summary:
 
