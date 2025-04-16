@@ -51,7 +51,9 @@ GPT-Workdesk LITE is suited for users who need a centralized environment for AI-
 **here with a browser window open at one of my YouTube demo channels:**
 - "Explain Today" is one of my concepts to showcase teaching and training tools including AI 
 - Rich Clipboard side panel (drag and drop images, formatted text, etc. saves on exit)
+- Multiple Clipboards organized by day, topic, category, etc.
 - Prompt Manager side Panel (keep your prompts organized by topic and workdesk)
+- Many prompts can be organized by Topic, Research Subject, Project, etc.
 - Video Manager side panel (manage your YT video library with drag-drop functions)
 - many other side panels can be created as desired (spec)
 
