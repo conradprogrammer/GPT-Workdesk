@@ -85,6 +85,10 @@ Based on the screenshots provided, GPT-Workdesk LITE facilitates a multi-AI envi
 
 GPT-Workdesk LITE allows users to harness the power of multiple AI models in one workspace, facilitating efficient research and content creation. Each workdesk setup keeps prompts and AI configurations distinct for different tasks and contexts.
 
+![image](https://github.com/user-attachments/assets/e2d9b88c-e33f-48a9-b34f-8eeb5109757f)
+
+**here with a browser window open at one of my YouTube video channels:**
+
 ![image](https://github.com/user-attachments/assets/c03fb9b1-f573-4fca-bd80-6b38d71b51d6)
 
 ## GPT-Workdesk LITE: Word and Spreadsheet Functionalities
